@@ -15,6 +15,15 @@
 /[Uu]ser[Ss]ettings/
 *.log
 
+# macOS Specific
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
 # By default unity supports Blender asset imports, *.blend1 blender files do not need to be commited to version control.
 *.blend1
 *.blend1.meta
