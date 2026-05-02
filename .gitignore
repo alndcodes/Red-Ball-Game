@@ -1,3 +1,4 @@
+
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
@@ -43,8 +44,19 @@ Icon
 # Jetbrains Rider personal-layer settings
 *.DotSettings.user
 
-# Visual Studio cache directory
+# Visual Studio Code
+.vscode/
 .vs/
+*.user
+*.userprefs
+*.pidb
+*.suo
+*.idle
+*.cache
+*.stf
+*.bak
+*.swp
+*.orig
 
 # Gradle cache directory
 .gradle/
